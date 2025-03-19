@@ -2,16 +2,16 @@ export const navItems = [
 	{ name: "Home", link: "#" },
 	{ name: "About", link: "#about" },
 	{ name: "Projects", link: "#projects" },
-	{ name: "Testimonials", link: "#testimonials" },
+	// { name: "Testimonials", link: "#testimonials" },
 	{ name: "Contact", link: "#contact" },
 ];
 
 export const gridItems = [
 	{
 		id: 1,
-		title:
+		title: "About Me",
+		description:
 			"I am a passionate front-end developer who thrives on creating impactful, accessible, and engaging web applications, whether working as part of a team or individually.",
-		description: "",
 		className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
 		imgClassName: "w-full h-full",
 		titleClassName: "justify-end",
