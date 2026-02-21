@@ -94,7 +94,7 @@ export const projects = [
 		des: "An app used for tracking youre progress in video games using the ",
 		img: "/project.gamelist.png",
 		iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-		link: "https://game-list-rpd.onrender.com",
+		link: "https://game-next.onrender.com",
 	},
 	{
 		id: 4,
