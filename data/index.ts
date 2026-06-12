@@ -96,14 +96,6 @@ export const projects = [
 		iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
 		link: "https://game-next.onrender.com",
 	},
-	{
-		id: 4,
-		title: "Calender App",
-		des: "A fully functional calendar aplpication used for your reminders all year round",
-		img: "/project.calendar.png",
-		iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-		link: "https://calendar-rpd.onrender.com",
-	},
 ];
 
 export const testimonials = [
